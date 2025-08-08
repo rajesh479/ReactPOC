@@ -1,5 +1,5 @@
 {
-    "name": "ReactPoc",
+    "name": "regularAppShell",
     "version": "1.1.1",
     "description": "A reusable React modal component built with Bootstrap for micro frontend architecture",
     "main": "dist/index.js",
